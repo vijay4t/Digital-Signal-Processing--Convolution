@@ -1,6 +1,6 @@
 # Digital-Signal-Processing--Convolution
-## Aim:
-                  To perform linear convolution using MAT LAB.
+## Aim
+To perform linear convolution using MAT LAB.
 ## Software Required:
 MAT LAB R2012
 ## Algorithm:
